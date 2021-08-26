@@ -1,8 +1,9 @@
-# include <stdio.h>
+#include <stdio.h>
 
 /**
- *This is a new comment
- *Making a file that prints a message
+ *  main - strings printed using puts
+ *  followed by  a new line
+ *  Return: always 0 on (success)
  */
 
 int main(void)
