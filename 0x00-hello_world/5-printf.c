@@ -1,3 +1,6 @@
+/**
+ *This is a description of my function.
+ */
 #include <stdio.h>
 int main(void)
 {
